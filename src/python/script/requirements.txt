@@ -1,0 +1,7 @@
+boto3
+pandas
+pyarrow
+SQLAlchemy
+sagemaker
+python-dotenv
+pymysql
